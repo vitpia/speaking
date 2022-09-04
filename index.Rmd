@@ -28,4 +28,6 @@ The choice for the present format will naturally lead to oversimplification! The
 
 Sections are written by relatively young, yet expert researchers. They are then reviewed by a senior researcher to ensure accuracy of the content and by a student (i.e., the target audience) for clarity.
 
-I hope you will enjoy the content. If you want to contribute to the core content, translations, to the project's future, correcting typos or mistakes, etc., please [contact me](mailto:vitoria.piai@donders.ru.nl)! This project is version controlled with GitLab, and will be made open as soon as it is published online.
+I hope you will enjoy the content. If you want to contribute to the core content, translations, to the project's future, correcting typos or mistakes, etc., please [contact me](mailto:vitoria.piai@donders.ru.nl)!  
+This project is version controlled via [github.com/vitpia/speaking/](https://github.com/vitpia/speaking/).  
+This project is accessible as a book via [bookdown.org/v_piai_research/speaking/](https://bookdown.org/v_piai_research/speaking/)
