@@ -1,0 +1,35 @@
+# Haemodynamics {#haemo}
+__Written by__ _Vitória Piai and Stéphanie Riès_  
+<!--__Reviewed by__ _someone_ -->
+
+Neuronal activity demands oxygen and glucose, which is provided by blood flowing to the brain (termed "neurovascular coupling"). By measuring the haemodynamic response, one indirectly measures brain activity. The brain's hemodynamic signal is predominantly measured with functional magnetic resonance imaging (fMRI), but also with positron emission tomography (PET) and near-infrared spectroscopy (NIRS). Temporal resolution is poor due to the properties of the hemodynamic response (in the range of seconds to minutes), but spatial resolution is excellent for fMRI and relatively good for PET and NIRS. 
+ 
+
+## Conceptually driven word production
+The first PET and fMRI studies investigating word production had participants generate verbs to nouns (e.g., say "eat" to the stimulus _apple_) versus repeating the word _apple_ [@petersen_positron_1988; @mccarthy_echo-planar_1993]. It was found that activity in left inferior frontal regions was increased for word generation relative to word repetition. 
+
+One can also examine activity that is common to both picture naming and word generation as both tasks require all the core stages of word production we saw in Part I: These tasks differ only in their task-specific processes due to for example stimulus modality, that is, visual vs auditory word, etc. Such an exercise reveals the involvement of regions in left frontal and left temporal lobes. More specifically, the posterior IFG, ventral precentral gyrus, supplementary motor area, mid and posterior STG and MTG, posterior fusiform gyrus, and anterior insula have been found to commonly activate for picture naming and verb generation [@indefrey_spatial_2004]. The exact function of each one of these regions is, however, still debated. Careful experimentation and comparisons across tasks are needed to elucidate which processes of those we saw in Part I they underpin. Nevertheless, the current evidence indicates that the mid-to-posterior parts of the left MTG are involved in lexical selection and the left posterior MTG and supramarginal gyrus are involved in phonological retrieval.   
+
+
+## Overt production
+When we produce words out loud, regardless of whether it is via a concept (e.g., picture naming, verb generation) or via converting letters to sounds (as in reading aloud), the phonological code we saw in Section \@ref(CognitiveArchitectureI) is transformed into a motor plan to move the articulators, that is, the process of phonetic encoding (Section \@ref(CognitiveArchitectureII)).  The lowest ("ventral") part of the precentral gyrus and primary and secondary motor areas are associated with phonetic encoding and the movement of the articulators (e.g., jaw, lips, tongue).
+
+When speaking aloud, you also hear yourself. With respect to speech monitoring (see Section \@ref(CognitiveArchitectureIII)), one of the ways in which neuroscientists have sought to identify the brain regions associated with it is by manipulating auditory feedback during speech production by, for example, delaying when participants hear themselves compared to when they speak, distorting their voice as they hear it, or masking the sound of their voice so that they cannot hear themselves [@mcguire_functional_1996; @hashimoto_brain_2003; @fu_fmri_2005; @tourville_neural_2008]. Doing so has shown that the left posterior STG is responsive to these manipulations such that there is generally more activity in this brain region in situations of abnormal auditory feedback compared to normal auditory feedback during speech production. These findings have led researchers to propose that this brain region is important for the outer loop of speech monitoring. When people hear themselves speak normally though, this region is not more active, in fact it even tends to be less active than when we are not speaking [@flinker_single_2010]. Other brain regions have been associated with the inner loop of speech monitoring including regions in the medial prefrontal cortex, the insula, the left inferior frontal cortex, and cerebellum [@gauvin_conflict_2016; @runnqvist_cerebellar_2021; @vandeVen_neural_2009; @christoffels_neural_2007]. These regions have been found to be more active when different responses compete for selection compared to when the response to be made is easier to select. Importantly, electroencephalography (see Section \@ref(ephys)) has revealed that the medial frontal cortex is more active when an error is about to be made compared to correct responses [@ries_general_2011]. This differential activity starts before we actually start speaking, meaning that it cannot reflect outer speech monitoring and instead more likely reflects the inner loop of speech monitoring.
+
+
+:::insum
+__Take-home messages__  
+
+* Haemodynamic methods have great to excellent spatial resolution but poor temporal resolution  
+* There is a general division of labour in the hemisphere: Left temporal lobe regions are mainly associated with conceptual, lexical, and phonological stages, whereas frontal regions are mostly associated with phonetic encoding and articulation  
+* The outer loop of speech monitoring has been associated with left posterior STG whereas the inner loop has been associated with the medial prefrontal cortex, the insula, the left inferior frontal cortex, and cerebellum    
+* The different aspects of conceptually driven word production have not (yet) been uniquely associated with specific brain regions  
+:::
+
+
+:::reading
+__Suggestions for further reading__  
+The interested reader is referred to additional literature for reviews on language production using haemodynamic methods [@price_review_2012; @de_zubicaray_neural_2022; @kemmerer_blueprints_2019; @indefrey_spatial_2004; @indefrey_spatial_2011].
+:::
+
+

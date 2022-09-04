@@ -1,0 +1,50 @@
+# Introduction {#intro}
+
+In 1989, W. J. M. (better known as "Pim") Levelt published the book "Speaking - From Intention to Articulation" [-@levelt_speaking_1989], in which he presented a very influential psycholinguistic model of language production. Now, more than thirty years later, his model remains important for the field, and the present book chapter is based on this theory.  
+
+Besides covering the psycholinguistics of speaking in sections \@ref(CognitiveArchitectureI), \@ref(CognitiveArchitectureII), \@ref(CognitiveArchitectureIII), and disorders of language production in section \@ref(disorders), this book chapter also provides an introduction to the "Speaking Brain", the methods used by researchers to study that, and the main findings that form the bulk of our knowledge about language in the brain at present.
+
+## Common paradigms
+Picture naming is a very common word-production paradigm. Researchers can also ask participants to produce sentences to a picture. Verb generation (i.e., producing a verb given an object as a stimulus, e.g., saying 'eat' to 'apple') is another commonly used paradigm. Repetition and reading aloud are also common, but note that, as discussed in section \@ref(CognitiveArchitectureI), they do not require people to produce language from a concept. The ultimate illustration of this point is the fact that you can repeat or read novel words, non-existing words, etc.
+
+
+## Common measures
+Language production researchers mainly use two types of behavioural measures: speech errors and response times (RTs). These measures are mostly obtained from paradigms that require participants to produce words or sentences, although speech errors are commonly obtained from spontaneous speech. An additional approach, especially derived from (semi-)spontaneous speech, consists of analysing properties of _what_ is produced (e.g., grammatical complexity of sentences, how frequently the words produced are used by speakers of the language, etc.). Responses can be given overtly (i.e., the sounds are produced) or covertly (i.e., no sounds are made by the speaker). 
+
+
+### Response times
+When we present people with a stimulus (e.g., a picture, a sentence), we can measure how long it takes them to utter a response following that stimulus, the RT. Researchers can then compare RTs across situations with the  assumption that longer RTs indicate a more difficult, or effortful, or longer, underlying mental operation. For example, producing words that occur more often in the language (e.g., "house") is faster than producing less common words (e.g., "broth"), an effect of so-called lexical frequency.
+
+### Speech errors
+
+Speech errors can be of various types, and are usually categorised as:  
+
+* omissions: no speech is produced  
+* "spoonerisms": sounds are switched between words (e.g., "black boxes" spoken as "back bloxes")  
+* cross-linguistic intrusions: using words of a different language than the one you are speaking (also called 'switching')  
+* tip-of-the-tongue: failing to retrieve a word from memory, while having partial information about the word available (e.g., you may know the number of syllables, stress pattern, or gender of the word)  
+
+See section \@ref(errors) for other types of speech errors associated with acquired brain damage.
+	
+
+
+### Final note
+Doing language production research is hard. Results are not always clear, do not always replicate, and findings can be disparate across studies. In this chapter, you will get to know this reality. We have however attempted to help you navigate, so we close the sections with __Take-home messages__. Don't forget to check these!
+
+:::exercise
+What kinds of errors do people make while speaking? Pay attention around you and write down as many (different) examples as you can find.
+:::
+
+:::exercise
+Compare all the examples in your group. Are there commonalities across the examples?
+:::
+
+:::exercise
+Think about the speech errors you collected. Can people correct errors before (completely) producing them? If (not) so, what does that mean?
+:::
+
+:::exercise
+If you speak a language other than English, think about the speech errors that are produced in your own mother tongue. Do they seem to follow certain patterns that you observed above?
+:::
+
+[Here](https://en.wikiversity.org/wiki/Psycholinguistics/Speech_Errors) you find many more examples of speech errors. 

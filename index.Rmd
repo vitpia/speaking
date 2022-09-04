@@ -1,0 +1,31 @@
+--- 
+title: "Speaking: The free book (chapter)"
+author: "Vitória Piai"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: 
+  bookdown::bs4_book:
+    css: "style.css" # this is to include the style.css when building
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+# github-repo: rstudio/bookdown-demo
+description: "Speaking, the free book chapter, was conceived by V. Piai"
+---
+
+# Preface {-}
+
+This book chapter emerged from my frustration with finding appropriate introductory materials on the (neuro)psychology of language production. Existing resources are not accessible, in my opinion. Peer-reviewed articles are not introductory enough, which makes them hard to use for teaching at the Bachelor's level or for initiating students on the topic more generally. Books, including handbooks, besides being very expensive, are too big; instead of getting an introduction to the topic, you get an entire book on the topic, so you can't just use it as required reading for one lecture. Finally, I have never found a single chapter in a Psychology textbook that does a proper job covering language _production_. All textbooks I have found so far have one chapter on "Language", which is 90\% (guesstimate) focused on comprehension/perception, or treats speech production as a motor activity, not delving into much further than motor control.
+
+The choice for the present format will naturally lead to oversimplification! The authors of the sections in this Free Book Chapter are very aware of that. But I also have big plans for the future:  
+
+- expansion into a book, always keeping it as an open book. The reader can then choose to dive into the depths, or stay at the introductory level;  
+* dynamic update of the content since our field is so active, constantly producing exciting new things;  
+* introduction of exercises (_big thanks to Rinus Verdonschot for this suggestion!_);  
+* translation into languages spoken by populations who have less command of the English language (on a population level), in particular from the South American, Asian, and African continents;  
+* planned future topics: multi-word and sentence-level production, sign production, ageing.
+
+Sections are written by relatively young, yet expert researchers. They are then reviewed by a senior researcher to ensure accuracy of the content and by a student (i.e., the target audience) for clarity.
+
+I hope you will enjoy the content. If you want to contribute to the core content, translations, to the project's future, correcting typos or mistakes, etc., please [contact me](mailto:vitoria.piai@donders.ru.nl)! This project is version controlled with GitLab, and will be made open as soon as it is published online.

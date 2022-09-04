@@ -1,0 +1,34 @@
+# Form to Articulation {#CognitiveArchitectureII}
+
+<!--__Written by__ _Hayo Terband_  
+__Edited by__ _Vitória Piai_ for consistency and brevity  
+<!--__Reviewed by__ _soon defined_  -->
+
+
+__THIS SECTION IS UNDER CONSTRUCTION!!!__
+
+Following the phonological word formed as we saw in previous Section \@ref(CognitiveArchitectureI), the next step is to create the phonological word’s gestural score, that is, the specification of the articulation for that word. This step is termed _phonetic encoding_ in the psycholinguistic tradition. According to Levelt et al. [-@levelt_theory_1999], a speaker can draw from her own stored repository of gestural scores, the so-called syllabary. The idea is that frequently used syllables in a language have their gestural scores stored, whereas for less frequent or new syllables, a gestural score needs to be computed on the fly. Finally, the gestural score is executed by the articulatory system, which consists of not only of your mouth (tongue, jaw), but also (and importantly) of your nasal cavity, lungs and larynx, that is, your voice box.
+
+Notably, Levelt et al.'s theory is admittedly only partially developed to deal with phonetic encoding and articulation [@levelt_theory_1999]. To better understand phonetic encoding and articulation, we must turn to the phonetics and motor control literature.
+
+
+
+
+<!--
+
+:::insum
+__Take-home messages__  
+* 1  
+* 2  
+* 3  
+::: 
+
+:::reading
+__Suggestions for further reading__  
+The interested reader is referred to additional literature on
+::: 
+-->
+:::exercise
+Think about the errors you collected in section \@ref(intro). Can you work out at what stage from those discussed above they emerged? Note that it could be that they emerge during stages discussed in section \@ref(CognitiveArchitectureI). 
+:::
+

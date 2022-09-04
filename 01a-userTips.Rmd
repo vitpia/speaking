@@ -1,0 +1,11 @@
+# How to use the material {-}
+
+This book chapter was written with a particular audience and goal in mind: For teaching at the Bachelor's and Master's level or for initiating trainees on the topic more generally. Some basic knowledge of cognitive psychology and linguistics is assumed. 
+
+The sections are short and the entire chapter can be read for one to a couple of lectures. Rather than covering any topic in depth, it illustrates the breadth of language-production research. 
+
+How to best use it for teaching:    
+
+* You can choose which sections to skip or in what order to read them or use for lectures. Most (if not all) of the sections' content were written to be self-containing as much as possible (References to the other relevant sections are provided);  
+* Use the suggested reading as you see fit, for example for assignments related to the section. You can also live without it if you are looking for a lighter version of the content       
+

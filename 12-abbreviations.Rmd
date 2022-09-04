@@ -1,0 +1,20 @@
+# Abbreviations {-}
+
+__EEG__: electroencephalogram  
+__ERF__: event-related field  
+__ERP__: event-related potential  
+__fMRI__: functional magnetic resonance imaging  
+__IFG__: inferior frontal gyrus  
+__LSM__: lesion-symptom mapping  
+__MEG__: magnetoencephalogram  
+__MTG__: middle temporal gyrus    
+__NIRS__: near-infrared spectroscopy  
+__PET__: positron emission tomography  
+__PPA__: primary progressive aphasia  
+__rTMS__: repetitive transcranial magnetic stimulation  
+__STG__: superior temporal gyrus  
+__TMS__: transcranial magnetic stimulation  
+__tDCS__: transcranial direct current stimulation  
+__VLSM__: voxel-based lesion-symptom mapping  
+
+

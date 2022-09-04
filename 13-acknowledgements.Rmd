@@ -1,0 +1,11 @@
+# Acknowledgements {-}
+
+I am truly indebted to all authors and reviewers who contribute to this resource. You can find their names explicitly in each section. 
+
+My gratitude also goes to:
+
+* Kristoffer Dahlslätt for help with code, bookdown-related issues, etc  
+* All members of the Language Function and Dysfunction lab  
+* Willemijn Doedens for careful reading and critical but extremely helpful feedback  
+* Joanna Sierpowska for careful reading     
+* Judith Lefkes, at that time a Cognitive Neuroscience student without a background in language, who reviewed many of the chapters for clarity  
