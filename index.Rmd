@@ -28,8 +28,9 @@ The choice for the present format will naturally lead to oversimplification! The
 
 Sections are written by relatively young, yet expert researchers. They are then reviewed by a senior researcher to ensure accuracy of the content and by a student (i.e., the target audience) for clarity.  
 
-## Important note
-These materials aren't completely ready yet. Not all sections have been peer-reviewed and one critical Section is still missing. Yet, I am quite confident there are no major mistakes in what has not been peer-reviewed yet and the sections that are ready are totally worth having out there to the world even if not all content is present.
+**Important note**
+*These materials aren't completely ready yet. Not all sections have been peer-reviewed and one critical Section is still missing. Yet, I am quite confident there are no major mistakes in what has not been peer-reviewed yet and the sections that are ready are totally worth having out there to the world even if not all content is present.*
+
 
 I hope you will enjoy the content. If you want to contribute to the core content, translations, to the project's future, correcting typos or mistakes, etc., please [contact me](mailto:vitoria.piai@donders.ru.nl)!  
 This project is version controlled via [github.com/vitpia/speaking/](https://github.com/vitpia/speaking/).  
