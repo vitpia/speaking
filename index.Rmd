@@ -10,7 +10,7 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-# github-repo: rstudio/bookdown-demo
+github-repo: vitpia/speaking
 description: "Speaking, the free book chapter, was conceived by V. Piai"
 ---
 
