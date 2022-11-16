@@ -1,4 +1,4 @@
-# Abbreviations {-}
+# Abbreviations 
 
 __EEG__: electroencephalogram  
 __ERF__: event-related field  
