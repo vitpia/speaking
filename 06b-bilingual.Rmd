@@ -1,0 +1,33 @@
+# Bilingual language production {#bilingual}
+
+__Written by__ _Angela de Bruin_  
+<!--__Reviewed by__ _No suggestions yet_  -->
+
+All language users need to select words when communicating with another person. Multilinguals do not just have words in one language available to them, but can choose between words across two or more languages. Although multilingualism is sometimes still considered an exception, in many countries the majority of people can have a conversation in more than one language. For some multilinguals, this means they produce words in a language they acquired later in life, or in a language they are less proficient in than in the language they grew up with from birth.  
+
+An important question within research on bilingual production (and comprehension) addresses whether a bilingual's two languages are constantly active and competing for selection. In other words: when a Spanish-English bilingual is in an English context, are both Spanish and English still active and in competition with each other, or can the bilingual completely switch off Spanish? Most evidence [e.g., @colome_2010; @spivey_1999] suggests both languages are active, even in contexts where only one language can be used. For instance, Colomé and Miozzo [-@colome_2010] asked Catalan-Spanish bilinguals to name a picture of a vest in Catalan ("armilla") while also seeing a picture of a squirrel ("ardilla" in Spanish and thus related in form to the Catalan word) or a control picture (e.g., a beak, "pico" in Spanish, which is not related in form to the Catalan target word). Monolingual participants named the target picture equally fast regardless of the other picture shown next to it. Bilingual participants, however, were faster to name "armilla" in Catalan in the presence of the picture of the squirrel ("ardilla" in Spanish). This suggests that even when using Catalan, the Spanish words were active too. In this case, the phonological (word form) overlap across languages facilitated production.  
+
+In some cases, the activation of words in all languages can thus help a bilingual speaker. In other cases, competition between languages can create interference. For instance, when speaking with an English monolingual, a Spanish-English bilingual has to make sure they produce words in English. If they accidentally use Spanish (a language not understood by the conversation partner), the conversation would be interrupted. To manage this language competition and avoid interference, bilinguals apply a series of so-called "language control" mechanisms. As a first step, bilinguals need to monitor the context to find out which language(s) can be used. The face of the person you are talking with can be one of the contextual cues influencing which language can be used and how easily words are activated in that language [e.g., @woumans_2015]. However, activating and selecting words in the target language might not be the only mechanism bilinguals use. As described in the _Inhibitory Control Hypothesis_ [@green_1998], bilinguals might also inhibit words in the non-target language (i.e., the language they should not/do not want to use in the current context). This inhibition is argued to be relative to how strong or proficient a language is. Unbalanced bilinguals are more proficient in one language (L1) than in the other (L2). These bilinguals might especially apply inhibition over their L1 to be able to produce language in the less proficient L2. This inhibition can help multilinguals to use less proficient languages without accidentally using words from more proficient languages [e.g., @deBruin_2023].  
+
+How exactly bilinguals use language control can depend on the context they are in [@green_2013]. Language control might be especially demanding in contexts where bilinguals have to switch languages in response to external cues. For instance, if a Spanish-English bilingual is at work and speaks Spanish with some colleagues but English with other colleagues, they will have to switch from Spanish to English when the English-speaking colleague joins the conversation. Research has studied this type of switching by presenting participants with pictures and cues (e.g., a country flag or face) instructing them which language they have to name the picture in. These studies have shown that language control is used both at the specific moment of switching, as well as more generally to use two languages in response to these cues [cf. @declerck_2015]. However, not all types of language switching are equally demanding. In some cases, bilinguals can switch between languages more freely when they are interacting with a bilingual who speaks the same languages. This can require less language control [e.g., @deBruin_2018; @green_2013]. In these cases, a wide range of factors can influence bilingual language choice and switching, including how fast words can be retrieved in each language [e.g., @deBruin_2018], the conversation partner's language preferences or behaviour [e.g., @kapiley_2018, @kootstra_2020], and visual cues present in the context [e.g., @vaughanEvans_2022].
+
+
+
+:::insum
+__Take-home messages__  
+
+* Even when only using one language, a bilingual's other language is active and competes for selection;  
+* Bilinguals use language control during production. This can include inhibiting words in the more proficient first language to use the second language;  
+* How bilinguals use language control can depend on the context they are in. In some contexts, bilinguals can also switch between their languages. When speaking with another bilingual who speaks the same languages, language choice and switching can be influenced by many factors related to the bilinguals themselves and the context they are in  
+
+:::
+
+
+:::reading
+__Suggestions for further reading__  
+The interested reader is referred to additional literature on the topics of language competition and activation [@spalek_2014], language activation in bimodal bilinguals [@shook_2012], language control [@declerck_2020; @goldrick_2023], and language switching in different contexts [@jevtovic_2019; @blancoElorrieta_2017].
+:::
+
+:::exercise
+No two bilinguals are the same. What type of individual differences in language experiences do you think exist between bilinguals, for example in terms of how proficient they are, how they use their languages, and when and how they acquired their second language? How could these individual differences influence bilingual production, for example language competition and language control?   
+:::
