@@ -1,4 +1,4 @@
-# How to use the material {-}
+# How to use these materials {-}
 
 This book chapter was written with a particular audience and goal in mind: For teaching at the Bachelor's and Master's level or for initiating trainees on the topic more generally. Some basic knowledge of cognitive psychology and linguistics is assumed. 
 
