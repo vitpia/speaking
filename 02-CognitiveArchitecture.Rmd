@@ -1,1 +1,1 @@
-# <font size = "30" color = "purple"> Part I: The Cognitive Architecture {-}
+#  Part I: The Cognitive Architecture {-} 
