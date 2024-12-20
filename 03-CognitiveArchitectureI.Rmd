@@ -26,7 +26,7 @@ Assume for now that only the DOG and CAT concepts are activated and they both se
 
 That this division (i.e., between Part 1 and 2) is not a simple trivial thing can be seen for example in the “tip-of-the-tongue” phenomenon (see Section \@ref(intro)) in which one would know some semantic information (e.g., “Hmm. That actor who plays in Avatar”) or whether something is countable or not, but one could not (completely) reach the pronunciation or only part of it (e.g., “S…Sa.. something”). 
 
-## The phonological level
+## The phonological level {#phonolevel}
 Once a lemma has been selected for production, it will activate a so-called “lexeme”. Now, three pieces of information become available for the word you would like to produce. First, the morphology of a word. In the case of < dog > this is simple as it is a monomorphemic word (i.e., you cannot break down < dog > into smaller units that still carry meaning). But a word such as < reappear > consists of two morphemes: < re- > and < appear >. Another case would be a plural, so if your intention was to say “DOGS”, then the lemma dog would have become activated and a syntactic “flag” for plurality would have been set there, then at the lexeme level both < dog > and < s > (plural suffix of dog) would become activated. 
 
 Next, the so-called metrical information becomes available, which (for Dutch, English, and German for example) states how many syllables the word consists of and where the stress is located. In the case of < dog > this is easy as it is just one stressed syllable (σ’; σ = syllable, ‘ = stress). But, for example, the metrical information for < forest > would specify that it has two syllables (σ’σ) with stress on the first syllable (i.e., FOrest). 
